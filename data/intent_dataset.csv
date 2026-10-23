@@ -1,0 +1,912 @@
+query,intent
+What is paracetamol?,medicine_info
+Can you tell me what ibuprofen is?,medicine_info
+Tell me about amoxicillin.,medicine_info
+What kind of medicine is azithromycin?,medicine_info
+I need basic information about cetirizine.,medicine_info
+Could you explain metformin in simple terms?,medicine_info
+What should I know about amlodipine in general?,medicine_info
+I'd like to understand what omeprazole is.,medicine_info
+Can you give me an introduction to pantoprazole?,medicine_info
+What are the basic facts about aspirin?,medicine_info
+How would you describe paracetamol?,medicine_info
+Please explain the medicine called ibuprofen.,medicine_info
+I want general details about amoxicillin.,medicine_info
+What is the general description of azithromycin?,medicine_info
+Could you give me some background on cetirizine?,medicine_info
+"Tell me the basics of metformin, please.",medicine_info
+What can you tell me about amlodipine overall?,medicine_info
+I need a general explanation of omeprazole.,medicine_info
+Could you describe pantoprazole for me?,medicine_info
+What is known about aspirin?,medicine_info
+Can you explain the basics of paracetamol?,medicine_info
+I'd like some general information on ibuprofen.,medicine_info
+What should a beginner know about amoxicillin?,medicine_info
+Give me an overview of what azithromycin is as a medicine.,medicine_info
+Can you describe cetirizine without focusing on one specific use?,medicine_info
+I want to learn about metformin in general.,medicine_info
+What are the main facts about amlodipine?,medicine_info
+Could you introduce omeprazole to me?,medicine_info
+Explain pantoprazole like I'm new to medicines.,medicine_info
+What is the basic information for aspirin?,medicine_info
+Can you give me a general description of paracetamol?,medicine_info
+"Tell me what this medicine, ibuprofen, is.",medicine_info
+I'd like to know more about amoxicillin.,medicine_info
+What should I understand about azithromycin?,medicine_info
+Could you provide general details about cetirizine?,medicine_info
+Can you explain what type of drug metformin is?,medicine_info
+I need an all-round description of amlodipine.,medicine_info
+What is omeprazole all about?,medicine_info
+Please give me the basic information on pantoprazole.,medicine_info
+How can you describe aspirin to someone unfamiliar with it?,medicine_info
+Tell me what I should know about paracetamol generally.,medicine_info
+Could you explain ibuprofen for a beginner?,medicine_info
+What information should I know about amoxicillin?,medicine_info
+Give me some introductory information about azithromycin.,medicine_info
+What is the general profile of cetirizine?,medicine_info
+Can you help me understand metformin?,medicine_info
+I want a general explanation of the medication amlodipine.,medicine_info
+What are the essentials of omeprazole?,medicine_info
+"Could you tell me more about this drug, pantoprazole?",medicine_info
+Explain the medicine aspirin in everyday language.,medicine_info
+I am looking for general information on paracetamol.,medicine_info
+What is the basic idea behind ibuprofen as a medicine?,medicine_info
+Can you give me the main information about amoxicillin?,medicine_info
+I'd like to learn the basics of azithromycin.,medicine_info
+What should I know about the drug cetirizine?,medicine_info
+Could you describe the medication metformin generally?,medicine_info
+Tell me a little about amlodipine.,medicine_info
+Can you give me some general details on omeprazole?,medicine_info
+I need an overall explanation of pantoprazole.,medicine_info
+What is this medication called aspirin?,medicine_info
+Could you explain the medicine paracetamol without going into treatment details?,medicine_info
+Tell me the important basic information about ibuprofen.,medicine_info
+What can you tell me about the medication amoxicillin?,medicine_info
+I want to understand the drug azithromycin better.,medicine_info
+Can you provide a general description of cetirizine?,medicine_info
+Give me an all-round explanation of metformin.,medicine_info
+What are the main things to know about amlodipine?,medicine_info
+Please describe omeprazole in simple language.,medicine_info
+I need a general introduction to pantoprazole.,medicine_info
+Could you give me the basic facts on the medicine aspirin?,medicine_info
+Tell me about the medication paracetamol as a whole.,medicine_info
+What does the medicine ibuprofen look like as a treatment option in general?,medicine_info
+Can you walk me through the basic information about amoxicillin?,medicine_info
+"I want to know the general details of azithromycin, not just one aspect.",medicine_info
+Could you give me a beginner-friendly description of cetirizine?,medicine_info
+What is this medicine?,medicine_info
+Can you tell me what this medicine is?,medicine_info
+Tell me about this medication.,medicine_info
+What kind of drug is this?,medicine_info
+I need basic information about this medicine.,medicine_info
+Could you explain this medicine in simple terms?,medicine_info
+What should I know about this medicine in general?,medicine_info
+I'd like to understand what this medication is.,medicine_info
+Can you give me an introduction to this drug?,medicine_info
+What are the basic facts about this medicine?,medicine_info
+How would you describe this medication?,medicine_info
+Please explain this medicine to me.,medicine_info
+I want general details about this drug.,medicine_info
+What is the general description of this medicine?,medicine_info
+Could you give me some background on this medication?,medicine_info
+"Tell me the basics of this medicine, please.",medicine_info
+What can you tell me about this drug overall?,medicine_info
+I need a general explanation of this medication.,medicine_info
+Could you describe this medicine for me?,medicine_info
+What is known about this drug?,medicine_info
+Can you explain the basics of this medication?,medicine_info
+I'd like some general information on this medicine.,medicine_info
+What should a beginner know about this drug?,medicine_info
+Give me an overview of what this medicine is.,medicine_info
+Can you describe this drug without focusing on one specific use?,medicine_info
+I want to learn about this medicine in general.,medicine_info
+What are the main facts about this medication?,medicine_info
+Could you introduce this drug to me?,medicine_info
+Explain this medicine like I'm new to medicines.,medicine_info
+What is the basic information for this medication?,medicine_info
+Can you give me a general description of this drug?,medicine_info
+Tell me what this medicine is.,medicine_info
+I'd like to know more about this medication.,medicine_info
+What should I understand about this drug?,medicine_info
+Could you provide general details about this medicine?,medicine_info
+Can you explain what type of drug this is?,medicine_info
+I need an all-round description of this medication.,medicine_info
+What is this medicine all about?,medicine_info
+Please give me the basic information on this drug.,medicine_info
+How can you describe this medicine to someone unfamiliar with it?,medicine_info
+Tell me what I should know about this medication generally.,medicine_info
+Could you explain this drug for a beginner?,medicine_info
+What information should I know about this medicine?,medicine_info
+Give me some introductory information about this drug.,medicine_info
+What is the general profile of this medication?,medicine_info
+Can you help me understand this medicine?,medicine_info
+I want a general explanation of this drug.,medicine_info
+What are the essentials of this medicine?,medicine_info
+Could you tell me more about this medication?,medicine_info
+Explain this drug in everyday language.,medicine_info
+I am looking for general information on this medicine.,medicine_info
+What is the basic idea behind this medication?,medicine_info
+Can you give me the main information about this drug?,medicine_info
+I'd like to learn the basics of this medicine.,medicine_info
+What should I know about this medication?,medicine_info
+Could you describe this drug generally?,medicine_info
+Tell me a little about this medicine.,medicine_info
+Can you give me some general details on this medication?,medicine_info
+I need an overall explanation of this drug.,medicine_info
+What is this medication?,medicine_info
+Could you explain this medicine without going into treatment details?,medicine_info
+Tell me the important basic information about this drug.,medicine_info
+What can you tell me about this medication?,medicine_info
+I want to understand this medicine better.,medicine_info
+Can you provide a general description of this drug?,medicine_info
+Give me an all-round explanation of this medicine.,medicine_info
+What are the main things to know about this medication?,medicine_info
+Please describe this drug in simple language.,medicine_info
+I need a general introduction to this medicine.,medicine_info
+Could you give me the basic facts on this medication?,medicine_info
+Tell me about this drug as a whole.,medicine_info
+What does this medicine involve in general?,medicine_info
+Can you walk me through the basic information about this drug?,medicine_info
+"I want to know the general details of this medicine, not just one aspect.",medicine_info
+Could you give me a beginner-friendly description of this medication?,medicine_info
+What is paracetamol used for?,uses
+Why is ibuprofen prescribed?,uses
+What conditions does amoxicillin treat?,uses
+What is the purpose of azithromycin?,uses
+Why would someone take cetirizine?,uses
+What problems is metformin meant to treat?,uses
+What health conditions can amlodipine be used for?,uses
+What does omeprazole help with?,uses
+When is pantoprazole normally prescribed?,uses
+What are the common uses of aspirin?,uses
+Which conditions is paracetamol used to manage?,uses
+Why might a doctor prescribe ibuprofen?,uses
+What is amoxicillin generally given for?,uses
+What symptoms or conditions can azithromycin help treat?,uses
+What kind of health problem is cetirizine used for?,uses
+What is the medical purpose of metformin?,uses
+In what situations is amlodipine prescribed?,uses
+What can omeprazole be used to treat?,uses
+Why would a patient be given pantoprazole?,uses
+What are doctors likely to prescribe aspirin for?,uses
+What conditions can be treated with paracetamol?,uses
+What is the intended use of ibuprofen?,uses
+Which illnesses is amoxicillin commonly used for?,uses
+What does a prescription for azithromycin usually aim to treat?,uses
+What is cetirizine meant to help with?,uses
+Why might someone need metformin?,uses
+What types of conditions can amlodipine help with?,uses
+For what reasons is omeprazole prescribed?,uses
+How is pantoprazole typically used in treatment?,uses
+What role does aspirin have in treating illness?,uses
+What kind of problems can paracetamol address?,uses
+Can you explain the main uses of ibuprofen?,uses
+What are the treatment uses of amoxicillin?,uses
+Which health issues may call for azithromycin?,uses
+Why do people take cetirizine as a medicine?,uses
+What is the reason for using metformin?,uses
+What conditions may a doctor recommend amlodipine for?,uses
+What is omeprazole intended to treat?,uses
+Where is pantoprazole commonly used in treatment?,uses
+"What can this medicine, aspirin, help with?",uses
+What is the usual reason for prescribing paracetamol?,uses
+Which medical conditions is ibuprofen useful for?,uses
+Why might amoxicillin be included in a treatment plan?,uses
+What are the main reasons someone might use azithromycin?,uses
+What does a doctor prescribe cetirizine to treat?,uses
+Which problems is metformin commonly given for?,uses
+Can amlodipine be used for certain medical conditions?,uses
+What kinds of illnesses is omeprazole prescribed for?,uses
+What is the treatment purpose of pantoprazole?,uses
+"Why is this drug, aspirin, used?",uses
+Tell me the main uses of paracetamol.,uses
+What are the conditions for which ibuprofen is used?,uses
+How can amoxicillin be used to manage a condition?,uses
+What is azithromycin usually prescribed to help with?,uses
+Which health problems may be treated using cetirizine?,uses
+What would someone normally take metformin for?,uses
+What is the reason a person might be prescribed amlodipine?,uses
+What does a doctor use omeprazole for?,uses
+What treatment situations involve pantoprazole?,uses
+Can you tell me why aspirin is given?,uses
+What are some medical uses for paracetamol?,uses
+"Which conditions can this drug, ibuprofen, help with?",uses
+Why would a healthcare provider choose amoxicillin?,uses
+What is the main treatment purpose of azithromycin?,uses
+What can a patient use cetirizine to treat?,uses
+Which illnesses can metformin be prescribed for?,uses
+How is amlodipine used to treat health problems?,uses
+What does omeprazole help patients with?,uses
+Why might pantoprazole be recommended?,uses
+Can you explain what aspirin is meant to treat?,uses
+What are the common reasons for using paracetamol?,uses
+What condition is ibuprofen normally used for?,uses
+Which problems can be addressed with amoxicillin?,uses
+What is the intended treatment use of azithromycin?,uses
+Tell me why a person might be given cetirizine.,uses
+What is this medicine used for?,uses
+Why is this medicine prescribed?,uses
+What conditions does it treat?,uses
+What is the purpose of this medicine?,uses
+Why would someone take it?,uses
+What problems is this medicine meant to treat?,uses
+What health conditions can it be used for?,uses
+What does it help with?,uses
+When is this medicine normally prescribed?,uses
+What are the common uses of this medicine?,uses
+Which conditions is it used to manage?,uses
+Why might a doctor prescribe it?,uses
+What is this medicine generally given for?,uses
+What symptoms or conditions can it help treat?,uses
+What kind of health problem is it used for?,uses
+What is the medical purpose of this medicine?,uses
+In what situations is it prescribed?,uses
+What can this medicine be used to treat?,uses
+Why would a patient be given it?,uses
+What are doctors likely to prescribe it for?,uses
+What conditions can be treated with this medicine?,uses
+What is the intended use of this drug?,uses
+Which illnesses is it commonly used for?,uses
+What does a prescription for this medicine usually aim to treat?,uses
+What is it meant to help with?,uses
+Why might someone need this medicine?,uses
+What types of conditions can it help with?,uses
+For what reasons is this drug prescribed?,uses
+How is this medicine typically used in treatment?,uses
+What role does this medicine have in treating illness?,uses
+What kind of problems can this drug address?,uses
+Can you explain the main uses of this medicine?,uses
+What are the treatment uses of this drug?,uses
+Which health issues may call for this medicine?,uses
+Why do people take this drug as a medicine?,uses
+What is the reason for using this medication?,uses
+What conditions may a doctor recommend it for?,uses
+What is this drug intended to treat?,uses
+Where is this medicine commonly used in treatment?,uses
+What can this medicine help with?,uses
+What is the usual reason for prescribing it?,uses
+Which medical conditions is this medicine useful for?,uses
+Why might it be included in a treatment plan?,uses
+What are the main reasons someone might use this drug?,uses
+What does a doctor prescribe this medicine to treat?,uses
+Which problems is it commonly given for?,uses
+Can this medicine be used for certain medical conditions?,uses
+What kinds of illnesses is this medication prescribed for?,uses
+What is the treatment purpose of this medicine?,uses
+Why is this drug used?,uses
+Tell me the main uses of this medicine.,uses
+What are the conditions for which this medication is used?,uses
+How can this medicine be used to manage a condition?,uses
+What is it usually prescribed to help with?,uses
+Which health problems may be treated using this drug?,uses
+What would someone normally take this medicine for?,uses
+What is the reason a person might be prescribed it?,uses
+What does a doctor use this medicine for?,uses
+What treatment situations involve this drug?,uses
+Can you tell me why this medicine is given?,uses
+What are some medical uses for this medication?,uses
+Which conditions can this drug help with?,uses
+Why would a healthcare provider choose this medicine?,uses
+What is the main treatment purpose of this drug?,uses
+What can a patient use this medicine to treat?,uses
+Which illnesses can this medication be prescribed for?,uses
+How is this drug used to treat health problems?,uses
+What does this medicine help patients with?,uses
+Why might this medicine be recommended?,uses
+Can you explain what this drug is meant to treat?,uses
+What are the common reasons for using this medicine?,uses
+What condition is this drug normally used for?,uses
+Which problems can be addressed with this medicine?,uses
+What is the intended treatment use of this medication?,uses
+Tell me why a person might be given this drug.,uses
+How should paracetamol be taken?,dosage
+What is the dosage for ibuprofen?,dosage
+How often should amoxicillin be taken?,dosage
+How do I take azithromycin correctly?,dosage
+What is the recommended way to take cetirizine?,dosage
+How should I use metformin?,dosage
+When should amlodipine be taken?,dosage
+How many times a day is omeprazole taken?,dosage
+Should pantoprazole be taken with food or without it?,dosage
+What are the instructions for taking aspirin?,dosage
+How is paracetamol normally administered?,dosage
+What is the usual dosing schedule for ibuprofen?,dosage
+How much amoxicillin should be taken?,dosage
+What is the proper way to take azithromycin?,dosage
+Can you explain how to take cetirizine?,dosage
+How frequently is metformin taken?,dosage
+What are the directions for using amlodipine?,dosage
+How should the dose of omeprazole be taken?,dosage
+What time should I take pantoprazole?,dosage
+How do I use the prescribed aspirin?,dosage
+What is the correct dosing routine for paracetamol?,dosage
+How often is ibuprofen normally used?,dosage
+Can you tell me the dosing instructions for amoxicillin?,dosage
+How should I administer azithromycin?,dosage
+What is the advised dose schedule for cetirizine?,dosage
+How should someone take metformin?,dosage
+Is there a specific time to take amlodipine?,dosage
+How many doses of omeprazole are usually taken?,dosage
+What are the administration instructions for pantoprazole?,dosage
+Could you explain the dosage instructions for aspirin?,dosage
+How should paracetamol be used during the day?,dosage
+What is the proper dosing of ibuprofen?,dosage
+How frequently should a person use amoxicillin?,dosage
+Are there instructions about when to take azithromycin?,dosage
+How is the dose of cetirizine usually scheduled?,dosage
+Can you explain the usual way to take metformin?,dosage
+What should I know about taking amlodipine?,dosage
+How do I follow the dosage instructions for omeprazole?,dosage
+What is the usual administration of pantoprazole?,dosage
+How often do patients take aspirin?,dosage
+How should I schedule my paracetamol doses?,dosage
+Could you tell me how ibuprofen is taken?,dosage
+What are the directions for taking the medicine amoxicillin?,dosage
+How is azithromycin supposed to be taken?,dosage
+What is the standard way to use cetirizine?,dosage
+How should I take a dose of metformin?,dosage
+What is the dosing frequency for amlodipine?,dosage
+How do I know when to take omeprazole?,dosage
+Can you tell me how frequently pantoprazole is used?,dosage
+What are the instructions for administering aspirin?,dosage
+How should the medication paracetamol be taken?,dosage
+How is the dose of ibuprofen normally given?,dosage
+What is the recommended dosing pattern for amoxicillin?,dosage
+How should I use my azithromycin prescription?,dosage
+When is the right time to take cetirizine?,dosage
+What is the correct frequency for taking metformin?,dosage
+How do people usually take amlodipine?,dosage
+Could you give me the administration directions for omeprazole?,dosage
+What is the proper schedule for taking pantoprazole?,dosage
+How should a patient take aspirin?,dosage
+Can you explain the dosing routine for paracetamol?,dosage
+How often do I need to take ibuprofen?,dosage
+What are the instructions for using amoxicillin as prescribed?,dosage
+How should the medicine azithromycin be administered?,dosage
+What is the advised frequency for cetirizine?,dosage
+How should I take metformin on a regular schedule?,dosage
+Could you tell me the correct way to use amlodipine?,dosage
+What should the dosing schedule for omeprazole look like?,dosage
+How frequently should pantoprazole be administered?,dosage
+How do I follow the instructions for aspirin?,dosage
+What is the appropriate way to take paracetamol?,dosage
+Can you explain when and how to take ibuprofen?,dosage
+How is amoxicillin taken according to its instructions?,dosage
+Can you walk me through the dosing instructions for azithromycin?,dosage
+What is the correct timing and method for taking cetirizine?,dosage
+How should this medicine be taken?,dosage
+What is the dosage?,dosage
+How often should it be taken?,dosage
+How do I take it correctly?,dosage
+What is the recommended way to take this medicine?,dosage
+How should I use this medication?,dosage
+When should it be taken?,dosage
+How many times a day is it taken?,dosage
+Should it be taken with food or without it?,dosage
+What are the instructions for taking this medicine?,dosage
+How is this medicine normally administered?,dosage
+What is the usual dosing schedule?,dosage
+How much should be taken?,dosage
+What is the proper way to take this medication?,dosage
+Can you explain how to take it?,dosage
+How frequently is this medicine taken?,dosage
+What are the directions for using this drug?,dosage
+How should the dose be taken?,dosage
+What time should I take this medicine?,dosage
+How do I use the prescribed medication?,dosage
+What is the correct dosing routine?,dosage
+How often is this medicine normally used?,dosage
+Can you tell me the dosing instructions?,dosage
+How should I administer this medicine?,dosage
+What is the advised dose schedule?,dosage
+How should someone take this medication?,dosage
+Is there a specific time to take it?,dosage
+How many doses are usually taken?,dosage
+What are the administration instructions?,dosage
+Could you explain the dosage instructions?,dosage
+How should this medicine be used during the day?,dosage
+What is the proper dosing?,dosage
+How frequently should a person use this medication?,dosage
+Are there instructions about when to take it?,dosage
+How is the dose usually scheduled?,dosage
+Can you explain the usual way to take this medicine?,dosage
+What should I know about taking this drug?,dosage
+How do I follow the dosage instructions?,dosage
+What is the usual administration method?,dosage
+How often do patients take this medicine?,dosage
+How should I schedule my doses?,dosage
+Could you tell me how this medicine is taken?,dosage
+What are the directions for taking the medicine?,dosage
+How is this medication supposed to be taken?,dosage
+What is the standard way to use this drug?,dosage
+How should I take a dose?,dosage
+What is the dosing frequency?,dosage
+How do I know when to take it?,dosage
+Can you tell me how frequently this medicine is used?,dosage
+What are the instructions for administering this medication?,dosage
+How should the drug be taken?,dosage
+How is the dose normally given?,dosage
+What is the recommended dosing pattern?,dosage
+How should I use my prescription?,dosage
+When is the right time to take this medicine?,dosage
+What is the correct frequency for taking it?,dosage
+How do people usually take this medication?,dosage
+Could you give me the administration directions?,dosage
+What is the proper schedule for taking it?,dosage
+How should a patient take this medicine?,dosage
+Can you explain the dosing routine?,dosage
+How often do I need to take it?,dosage
+What are the instructions for using this medicine as prescribed?,dosage
+How should the medication be administered?,dosage
+What is the advised frequency?,dosage
+How should I take this medicine on a regular schedule?,dosage
+Could you tell me the correct way to use this drug?,dosage
+What should the dosing schedule look like?,dosage
+How frequently should this medicine be administered?,dosage
+How do I follow the instructions for taking it?,dosage
+What is the appropriate way to take this medication?,dosage
+Can you explain when and how to take it?,dosage
+How is this medicine taken according to its instructions?,dosage
+Can you walk me through the dosing instructions for this medicine?,dosage
+How much medicine should I take?,dosage
+How much paracetamol should I take?,dosage
+How often should I take this medicine?,dosage
+How often can I take paracetamol?,dosage
+How should I take this medicine?,dosage
+How should I take paracetamol?,dosage
+Tell me how to take paracetamol.,dosage
+How many tablets should I take?,dosage
+What amount should I take?,dosage
+How frequently should I take this medicine?,dosage
+Tell me the dosage of paracetamol,dosage
+What is the correct timing and method for taking this medication?,dosage
+What are the side effects of paracetamol?,side_effects
+What unwanted effects can ibuprofen cause?,side_effects
+Can amoxicillin cause any side effects?,side_effects
+What adverse effects are associated with azithromycin?,side_effects
+Could cetirizine cause nausea or other unwanted effects?,side_effects
+What reactions can occur after taking metformin?,side_effects
+What should I know about the side effects of amlodipine?,side_effects
+Are there common side effects from omeprazole?,side_effects
+What negative effects can pantoprazole have?,side_effects
+Can you list the possible side effects of aspirin?,side_effects
+What unwanted reactions might happen with paracetamol?,side_effects
+Does ibuprofen have any known adverse effects?,side_effects
+What side reactions can occur with amoxicillin?,side_effects
+Could taking azithromycin cause unwanted symptoms?,side_effects
+What are the possible adverse reactions to cetirizine?,side_effects
+Can metformin make someone feel unwell in certain ways?,side_effects
+What effects might be experienced after taking amlodipine?,side_effects
+Are there any unpleasant effects linked to omeprazole?,side_effects
+What problems can pantoprazole cause as a side effect?,side_effects
+How might aspirin affect someone in an unwanted way?,side_effects
+What should I watch for after taking paracetamol in terms of side effects?,side_effects
+Does ibuprofen commonly cause any unwanted reactions?,side_effects
+What are the known unwanted effects of amoxicillin?,side_effects
+Can you explain the adverse effects of azithromycin?,side_effects
+Are there side effects I should know about with cetirizine?,side_effects
+What reactions are possible when using metformin?,side_effects
+Could amlodipine lead to dizziness or other side effects?,side_effects
+What kinds of unwanted symptoms can omeprazole cause?,side_effects
+What are the potential negative effects of pantoprazole?,side_effects
+Can taking aspirin result in any adverse reactions?,side_effects
+Tell me about possible side effects from paracetamol.,side_effects
+What unwanted changes can happen after using ibuprofen?,side_effects
+Are there any common reactions to amoxicillin?,side_effects
+Could someone experience side effects while taking azithromycin?,side_effects
+What adverse symptoms can cetirizine produce?,side_effects
+"Does this medicine, metformin, have side effects?",side_effects
+What are the possible unwanted reactions to amlodipine?,side_effects
+Can omeprazole cause discomfort or other side effects?,side_effects
+What should a person expect in terms of side effects from pantoprazole?,side_effects
+Are any unwanted effects associated with aspirin?,side_effects
+What side effects may appear after using paracetamol?,side_effects
+Could ibuprofen cause an unexpected reaction?,side_effects
+What negative reactions should I know about with amoxicillin?,side_effects
+Can you tell me what side effects azithromycin may have?,side_effects
+What adverse effects might occur while using cetirizine?,side_effects
+Is nausea a possible side effect of metformin?,side_effects
+Can amlodipine cause sleepiness or other unwanted effects?,side_effects
+What symptoms could be side effects of omeprazole?,side_effects
+What are the unwanted effects people may notice with pantoprazole?,side_effects
+Does using aspirin sometimes cause adverse reactions?,side_effects
+Could there be side effects from taking paracetamol?,side_effects
+"What side effects are possible with this drug, ibuprofen?",side_effects
+Can you explain what unwanted reactions may happen with amoxicillin?,side_effects
+What should I be aware of regarding azithromycin side effects?,side_effects
+Are there any negative reactions to cetirizine?,side_effects
+What effects besides the intended effect can metformin cause?,side_effects
+Can amlodipine cause any unpleasant symptoms?,side_effects
+What are the adverse reactions people report with omeprazole?,side_effects
+How can pantoprazole cause unwanted effects?,side_effects
+What possible side effects come with aspirin?,side_effects
+Could paracetamol cause stomach problems or other side effects?,side_effects
+What are the common unwanted reactions to ibuprofen?,side_effects
+Does amoxicillin have any side effects that users should know about?,side_effects
+What kind of adverse effects might come with azithromycin?,side_effects
+Can you describe the side effects associated with cetirizine?,side_effects
+What unwanted symptoms may result from metformin?,side_effects
+Are side effects a concern with amlodipine?,side_effects
+Could a person have a reaction to omeprazole?,side_effects
+What should I look out for as a possible side effect of pantoprazole?,side_effects
+Tell me which unwanted effects can occur with aspirin.,side_effects
+Can paracetamol cause any unusual reactions?,side_effects
+What are the possible negative effects while using ibuprofen?,side_effects
+Does amoxicillin cause any unwanted symptoms?,side_effects
+What adverse reactions should I know about for azithromycin?,side_effects
+Can you tell me about reactions caused by cetirizine?,side_effects
+What are the side effects of this medicine?,side_effects
+What unwanted effects can it cause?,side_effects
+Can this medicine cause any side effects?,side_effects
+What adverse effects are associated with it?,side_effects
+Could it cause nausea or other unwanted effects?,side_effects
+What reactions can occur after taking it?,side_effects
+What should I know about the side effects?,side_effects
+Are there common side effects from this medicine?,side_effects
+What negative effects can this medication have?,side_effects
+Can you list the possible side effects?,side_effects
+What unwanted reactions might happen with this drug?,side_effects
+Does this medicine have any known adverse effects?,side_effects
+What side reactions can occur with this medication?,side_effects
+Could taking it cause unwanted symptoms?,side_effects
+What are the possible adverse reactions to this medicine?,side_effects
+Can this drug make someone feel unwell in certain ways?,side_effects
+What effects might be experienced after taking this medication?,side_effects
+Are there any unpleasant effects linked to this medicine?,side_effects
+What problems can this drug cause as a side effect?,side_effects
+How might this medicine affect someone in an unwanted way?,side_effects
+What should I watch for after taking it in terms of side effects?,side_effects
+Does this medicine commonly cause any unwanted reactions?,side_effects
+What are the known unwanted effects of this medication?,side_effects
+Can you explain the adverse effects of this drug?,side_effects
+Are there side effects I should know about with this medicine?,side_effects
+What reactions are possible when using it?,side_effects
+Could this medicine lead to dizziness or other side effects?,side_effects
+What kinds of unwanted symptoms can it cause?,side_effects
+What are the potential negative effects of this drug?,side_effects
+Can taking this medicine result in any adverse reactions?,side_effects
+Tell me about possible side effects from this medication.,side_effects
+What unwanted changes can happen after using it?,side_effects
+Are there any common reactions to this medicine?,side_effects
+Could someone experience side effects while taking it?,side_effects
+What adverse symptoms can this drug produce?,side_effects
+Does this medicine have side effects?,side_effects
+What are the possible unwanted reactions to this medication?,side_effects
+Can this drug cause discomfort or other side effects?,side_effects
+What should a person expect in terms of side effects?,side_effects
+Are any unwanted effects associated with this medicine?,side_effects
+What side effects may appear after using it?,side_effects
+Could this medication cause an unexpected reaction?,side_effects
+What negative reactions should I know about with this drug?,side_effects
+Can you tell me what side effects this medicine may have?,side_effects
+What adverse effects might occur while using it?,side_effects
+Is nausea a possible side effect of this medicine?,side_effects
+Can this drug cause sleepiness or other unwanted effects?,side_effects
+What symptoms could be side effects of this medication?,side_effects
+What are the unwanted effects people may notice with this drug?,side_effects
+Does using this medicine sometimes cause adverse reactions?,side_effects
+Could there be side effects from taking this medication?,side_effects
+What side effects are possible with this drug?,side_effects
+Can you explain what unwanted reactions may happen with this medicine?,side_effects
+What should I be aware of regarding side effects?,side_effects
+Are there any negative reactions to this medication?,side_effects
+What effects besides the intended effect can this drug cause?,side_effects
+Can this medicine cause any unpleasant symptoms?,side_effects
+What are the adverse reactions people report with this medication?,side_effects
+How can this drug cause unwanted effects?,side_effects
+What possible side effects come with this medicine?,side_effects
+Could this medication cause stomach problems or other side effects?,side_effects
+What are the common unwanted reactions to this drug?,side_effects
+Does this medicine have any side effects that users should know about?,side_effects
+What kind of adverse effects might come with this medication?,side_effects
+Can you describe the side effects associated with this drug?,side_effects
+What unwanted symptoms may result from this medicine?,side_effects
+Are side effects a concern with this medication?,side_effects
+Could a person have a reaction to this drug?,side_effects
+What should I look out for as a possible side effect?,side_effects
+Tell me which unwanted effects can occur with this medicine.,side_effects
+Can this drug cause any unusual reactions?,side_effects
+What are the possible negative effects while using this medication?,side_effects
+Does this medicine cause any unwanted symptoms?,side_effects
+What adverse reactions should I know about for this drug?,side_effects
+Can you tell me about reactions caused by this medicine?,side_effects
+What warnings should I know about paracetamol?,warnings
+Are there any precautions for taking ibuprofen?,warnings
+Who should avoid amoxicillin?,warnings
+What are the risks of using azithromycin?,warnings
+Are there any reasons someone should not take cetirizine?,warnings
+What precautions should I take with metformin?,warnings
+Who needs to be careful when using amlodipine?,warnings
+Are there any important warnings for omeprazole?,warnings
+What should I be cautious about with pantoprazole?,warnings
+Are there conditions in which aspirin should be avoided?,warnings
+What are the contraindications for paracetamol?,warnings
+Can you tell me about the safety warnings for ibuprofen?,warnings
+Who should not use amoxicillin?,warnings
+What should I check before taking azithromycin?,warnings
+Are there any precautions I need to know before using cetirizine?,warnings
+What risks should a person consider with metformin?,warnings
+Is amlodipine safe for everyone to use?,warnings
+Are there people who should avoid taking omeprazole?,warnings
+What warnings come with pantoprazole?,warnings
+What safety information should I know about aspirin?,warnings
+Are there circumstances where paracetamol should not be used?,warnings
+What should I be careful about while taking ibuprofen?,warnings
+Does amoxicillin have any important precautions?,warnings
+What are the main safety concerns with azithromycin?,warnings
+Who needs special caution with cetirizine?,warnings
+Are there any restrictions on using metformin?,warnings
+What should someone know before starting amlodipine?,warnings
+Can omeprazole be unsafe for certain people?,warnings
+What are the precautions associated with pantoprazole?,warnings
+Are there any conditions that make aspirin unsuitable?,warnings
+What should I avoid while using paracetamol?,warnings
+Are there any warning signs or safety concerns I should know about with ibuprofen?,warnings
+What people should be especially careful with amoxicillin?,warnings
+Does azithromycin have any contraindications?,warnings
+What should be considered before using cetirizine?,warnings
+Are there safety warnings for the medicine metformin?,warnings
+Who may need to avoid amlodipine?,warnings
+What precautions apply when taking omeprazole?,warnings
+Are there any risks I should know before using pantoprazole?,warnings
+Can certain people not take aspirin?,warnings
+What should I know about the safe use of paracetamol?,warnings
+Are there any important restrictions with ibuprofen?,warnings
+What should I be aware of before taking amoxicillin?,warnings
+Who should use caution with azithromycin?,warnings
+Are there medical situations where cetirizine is not recommended?,warnings
+What are the safety precautions for metformin?,warnings
+Could amlodipine be unsuitable for some people?,warnings
+What warnings are associated with the drug omeprazole?,warnings
+Are there things I should not do while taking pantoprazole?,warnings
+What should I tell a doctor before using aspirin?,warnings
+Are there any risks or precautions linked to paracetamol?,warnings
+"Who should not take this medicine, ibuprofen?",warnings
+What should patients be warned about when using amoxicillin?,warnings
+Are there special precautions for azithromycin?,warnings
+What should I be careful about before taking cetirizine?,warnings
+Can metformin interact with other medicines in a way I should know about?,warnings
+Are there any drug interaction warnings for amlodipine?,warnings
+What safety issues should I consider with omeprazole?,warnings
+Is there anyone who should not use pantoprazole?,warnings
+What are the important cautions for aspirin?,warnings
+Are there circumstances where taking paracetamol may be risky?,warnings
+What should I avoid when using the medicine ibuprofen?,warnings
+Are there any warnings about combining amoxicillin with other medicines?,warnings
+What precautions should a patient follow with azithromycin?,warnings
+Who needs extra caution before taking cetirizine?,warnings
+What are the major warnings for metformin?,warnings
+Are there any safety concerns before starting amlodipine?,warnings
+Can you explain who should avoid omeprazole?,warnings
+What should I know about contraindications for pantoprazole?,warnings
+Are there special warnings for certain people taking aspirin?,warnings
+"What precautions come with this drug, paracetamol?",warnings
+Is ibuprofen appropriate for everyone?,warnings
+What risks should I consider before taking amoxicillin?,warnings
+Are there any important things to avoid with azithromycin?,warnings
+What should a patient be cautious about when using cetirizine?,warnings
+What warnings should I know about this medicine?,warnings
+Are there any precautions for taking it?,warnings
+Who should avoid this medicine?,warnings
+What are the risks of using it?,warnings
+Are there any reasons someone should not take this medication?,warnings
+What precautions should I take with this drug?,warnings
+Who needs to be careful when using this medicine?,warnings
+Are there any important warnings for this medication?,warnings
+What should I be cautious about with this drug?,warnings
+Are there conditions in which this medicine should be avoided?,warnings
+What are the contraindications for this medication?,warnings
+Can you tell me about the safety warnings?,warnings
+Who should not use this medicine?,warnings
+What should I check before taking it?,warnings
+Are there any precautions I need to know before using this drug?,warnings
+What risks should a person consider with this medicine?,warnings
+Is this medicine safe for everyone to use?,warnings
+Are there people who should avoid taking it?,warnings
+What warnings come with this medication?,warnings
+What safety information should I know about this drug?,warnings
+Are there circumstances where this medicine should not be used?,warnings
+What should I be careful about while taking it?,warnings
+Does this medication have any important precautions?,warnings
+What are the main safety concerns with this medicine?,warnings
+Who needs special caution with this drug?,warnings
+Are there any restrictions on using this medicine?,warnings
+What should someone know before starting this medication?,warnings
+Can this drug be unsafe for certain people?,warnings
+What are the precautions associated with this medicine?,warnings
+Are there any conditions that make this drug unsuitable?,warnings
+What should I avoid while using this medication?,warnings
+Are there any warning signs or safety concerns I should know about with this drug?,warnings
+What people should be especially careful with this medicine?,warnings
+Does this medication have any contraindications?,warnings
+What should be considered before using this drug?,warnings
+Are there safety warnings for this medicine?,warnings
+Who may need to avoid this medication?,warnings
+What precautions apply when taking it?,warnings
+Are there any risks I should know before using this medicine?,warnings
+Can certain people not take this drug?,warnings
+What should I know about the safe use of this medication?,warnings
+Are there any important restrictions with this medicine?,warnings
+What should I be aware of before taking this drug?,warnings
+Who should use caution with this medication?,warnings
+Are there medical situations where this medicine is not recommended?,warnings
+What are the safety precautions for this drug?,warnings
+Could this medication be unsuitable for some people?,warnings
+What warnings are associated with this medicine?,warnings
+Are there things I should not do while taking it?,warnings
+What should I tell a doctor before using this medication?,warnings
+Are there any risks or precautions linked to this drug?,warnings
+Who should not take this medicine?,warnings
+What should patients be warned about when using this medication?,warnings
+Are there special precautions for this drug?,warnings
+What should I be careful about before taking this medicine?,warnings
+Can this medicine interact with other medicines in a way I should know about?,warnings
+Are there any drug interaction warnings?,warnings
+What safety issues should I consider with this medication?,warnings
+Is there anyone who should not use this drug?,warnings
+What are the important cautions for this medicine?,warnings
+Are there circumstances where taking this medication may be risky?,warnings
+What should I avoid when using this drug?,warnings
+Are there any warnings about combining this medicine with other medicines?,warnings
+What precautions should a patient follow with this medication?,warnings
+Who needs extra caution before taking this drug?,warnings
+What are the major warnings for this medicine?,warnings
+Are there any safety concerns before starting this medication?,warnings
+Can you explain who should avoid this drug?,warnings
+What should I know about contraindications for this medicine?,warnings
+Are there special warnings for certain people taking this drug?,warnings
+What precautions come with this medication?,warnings
+Is this medicine appropriate for everyone?,warnings
+What risks should I consider before taking this drug?,warnings
+Are there any important things to avoid with this medicine?,warnings
+What should a patient be cautious about when using this medication?,warnings
+Give me a short summary of paracetamol.,summary
+Can you summarize ibuprofen for me?,summary
+Give me a brief overview of amoxicillin.,summary
+Can I get a quick overview of azithromycin?,summary
+Summarize the medicine cetirizine in a few words.,summary
+Give me a concise description of metformin.,summary
+What is a quick summary of amlodipine?,summary
+Could you give me the short version of omeprazole?,summary
+Give me a brief introduction to pantoprazole.,summary
+Can you provide an at-a-glance summary of aspirin?,summary
+I need a quick summary of paracetamol.,summary
+Give me the main points about ibuprofen briefly.,summary
+Can you explain amoxicillin in a short overview?,summary
+Please give me a concise overview of azithromycin.,summary
+Summarize the key information about cetirizine.,summary
+Give me a quick description of metformin.,summary
+Can you give me the essentials of amlodipine in brief?,summary
+I'd like a short explanation of omeprazole.,summary
+Give me a simple summary of the medicine pantoprazole.,summary
+What is the brief overview for aspirin?,summary
+Can you sum up what paracetamol is?,summary
+Give me a few key points about ibuprofen.,summary
+Could you make a short overview of amoxicillin?,summary
+I want a quick snapshot of azithromycin.,summary
+Tell me the main idea of cetirizine briefly.,summary
+Can you give me a concise rundown of metformin?,summary
+Give me a short account of what amlodipine is.,summary
+Please summarize the basics of omeprazole.,summary
+What is the quick take on pantoprazole?,summary
+Can you provide a brief description of the medication aspirin?,summary
+I need the short version of the information on paracetamol.,summary
+Give me a compact overview of ibuprofen.,summary
+Can you summarize the important points about amoxicillin?,summary
+Tell me about azithromycin in brief.,summary
+Give me a quick explanation of the drug cetirizine.,summary
+Could you provide a short recap of metformin?,summary
+"What are the key points about amlodipine, briefly?",summary
+"Give me a concise summary of this medicine, omeprazole.",summary
+Can you make the information about pantoprazole short and simple?,summary
+I'd like a brief overview of the drug aspirin.,summary
+Summarize paracetamol without going into too much detail.,summary
+Give me a quick outline of ibuprofen.,summary
+Can you give me the highlights of amoxicillin?,summary
+Please give me a short overview of the medication azithromycin.,summary
+What should I know about cetirizine at a glance?,summary
+Can you give me a brief rundown of metformin?,summary
+"Give me a small, simple summary of amlodipine.",summary
+Could you sum up the medicine omeprazole for me?,summary
+I need a concise overview of pantoprazole.,summary
+Can you tell me the basics of aspirin in brief?,summary
+Give me a short summary rather than a detailed explanation of paracetamol.,summary
+Please condense the main information about ibuprofen.,summary
+What is the short overview of amoxicillin?,summary
+Can you give me a quick summary of the drug azithromycin?,summary
+I'd like the key information on cetirizine in a short form.,summary
+Give me a brief rundown of the medicine metformin.,summary
+Can you summarize the main points of amlodipine?,summary
+Tell me the essentials of omeprazole briefly.,summary
+Could you give me an at-a-glance explanation of pantoprazole?,summary
+I want a short and simple overview of aspirin.,summary
+Give me a concise introduction to paracetamol.,summary
+Can you provide the short version of ibuprofen?,summary
+Summarize the medicine amoxicillin in simple language.,summary
+Give me a quick overview without much detail about azithromycin.,summary
+"What are the main things about cetirizine, in brief?",summary
+Could you give me a short recap of the medicine metformin?,summary
+I need a brief summary of what amlodipine is.,summary
+Can you sum up the important information about omeprazole?,summary
+"Give me a quick, simple description of pantoprazole.",summary
+Please provide a short overview of aspirin.,summary
+What is the one-minute summary of paracetamol?,summary
+Can you give me a brief picture of what ibuprofen is?,summary
+Summarize the key details of amoxicillin for me.,summary
+Give me a compact summary of the medication azithromycin.,summary
+I want a quick overview of the drug cetirizine.,summary
+Give me a short summary of this medicine.,summary
+Can you summarize this medication for me?,summary
+Give me a brief overview of this drug.,summary
+Can I get a quick overview of this medicine?,summary
+Summarize this medicine in a few words.,summary
+Give me a concise description of this medication.,summary
+What is a quick summary of this drug?,summary
+Could you give me the short version of this medicine?,summary
+Give me a brief introduction to this medication.,summary
+Can you provide an at-a-glance summary of this drug?,summary
+I need a quick summary of this medicine.,summary
+Give me the main points about this medication briefly.,summary
+Can you explain this drug in a short overview?,summary
+Please give me a concise overview of this medicine.,summary
+Summarize the key information about this medication.,summary
+Give me a quick description of this drug.,summary
+Can you give me the essentials of this medicine in brief?,summary
+I'd like a short explanation of this medication.,summary
+Give me a simple summary of this drug.,summary
+What is the brief overview for this medicine?,summary
+Can you sum up what this medication is?,summary
+Give me a few key points about this drug.,summary
+Could you make a short overview of this medicine?,summary
+I want a quick snapshot of this medication.,summary
+Tell me the main idea of this drug briefly.,summary
+Can you give me a concise rundown of this medicine?,summary
+Give me a short account of what this medication is.,summary
+Please summarize the basics of this drug.,summary
+What is the quick take on this medicine?,summary
+Can you provide a brief description of this medication?,summary
+I need the short version of the information on this drug.,summary
+Give me a compact overview of this medicine.,summary
+Can you summarize the important points about this medication?,summary
+Tell me about this drug in brief.,summary
+Give me a quick explanation of this medicine.,summary
+Could you provide a short recap of this medication?,summary
+"What are the key points about this drug, briefly?",summary
+Give me a concise summary of this medicine.,summary
+Can you make the information about this drug short and simple?,summary
+I'd like a brief overview of this medication.,summary
+Summarize this medicine without going into too much detail.,summary
+Give me a quick outline of this drug.,summary
+Can you give me the highlights of this medicine?,summary
+Please give me a short overview of this medication.,summary
+What should I know about this drug at a glance?,summary
+Can you give me a brief rundown of this medicine?,summary
+"Give me a small, simple summary of this medication.",summary
+Could you sum up this drug for me?,summary
+I need a concise overview of this medicine.,summary
+Can you tell me the basics of this drug in brief?,summary
+Give me a short summary rather than a detailed explanation of this medication.,summary
+Please condense the main information about this drug.,summary
+What is the short overview of this medicine?,summary
+Can you give me a quick summary of this medication?,summary
+I'd like the key information on this drug in a short form.,summary
+Give me a brief rundown of this medicine.,summary
+Can you summarize the main points of this medication?,summary
+Tell me the essentials of this drug briefly.,summary
+Could you give me an at-a-glance explanation of this medicine?,summary
+I want a short and simple overview of this medication.,summary
+Give me a concise introduction to this drug.,summary
+Can you provide the short version of this medicine?,summary
+Summarize this medication in simple language.,summary
+Give me a quick overview without much detail about this drug.,summary
+"What are the main things about this medicine, in brief?",summary
+Could you give me a short recap of this medication?,summary
+I need a brief summary of what this drug is.,summary
+Can you sum up the important information about this medicine?,summary
+"Give me a quick, simple description of this medication.",summary
+Please provide a short overview of this drug.,summary
+What is the one-minute summary of this medicine?,summary
+Can you give me a brief picture of what this medication is?,summary
+Summarize the key details of this drug for me.,summary
+Give me a compact summary of this medicine.,summary
+I want a quick overview of this medication.,summary

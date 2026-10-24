@@ -5,4 +5,6 @@ node_modules/
 venv/
 __pycache__/
 dist/
-build/.streamlit/secrets.toml
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+

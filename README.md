@@ -1,5 +1,7 @@
 # Medicine Information Assistant
 
+#Live Website: [https://your-mia.streamlit.app/](https://your-mia.streamlit.app/)
+
 An NLP-based medicine information assistant that helps users explore medicine-related information through a conversational interface. The application combines **Natural Language Processing (NLP), Machine Learning, Streamlit, and MongoDB** to process user queries, identify their intent, and provide relevant medicine information.
 
 Built as an academic project to explore how machine learning and conversational interfaces can make structured medicine information easier to access.
